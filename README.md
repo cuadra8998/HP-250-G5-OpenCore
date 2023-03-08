@@ -6,6 +6,7 @@ This is a preconfigured OpenCore EFI for the (i3-5005u) HP 250 G5 Variant
 - Intel HD 5500 Graphics
 - Keyboard
 - Camera
+- FileVault
 - Sleep
 - iMessage & Other iCloud Services
 - USB Ports
