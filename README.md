@@ -26,4 +26,4 @@ This is a preconfigured OpenCore EFI for the (i3-5005u) HP 250 G5 Variant
 - macOS Ventura
 
 **Credits**:
-- [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/ "OpenCore Guide"):(**they really helped make this possible**)
+- [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/ "OpenCore Guide"): (**they really helped make this possible**)
