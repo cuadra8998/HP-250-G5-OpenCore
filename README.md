@@ -18,3 +18,12 @@ This is a preconfigured OpenCore EFI for the (i3-5005u) HP 250 G5 Variant
 - HDMI Audio: Known Issue with this model
 - Realtek PCIE Card Reader
 - Intel Power Management: CFG Lock must be disabled in order to properly get this working (Bypassed with XCPM Quirks)
+
+**Tested macOS Versions**:
+- macOS Catalina
+- macOS Big Sur
+- macOS Monterey
+- macOS Ventura
+
+**Credits**:
+- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
