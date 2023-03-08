@@ -28,3 +28,5 @@ This is a preconfigured OpenCore EFI for the (i3-5005u) HP 250 G5 Variant
 
 **Credits**:
 - [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/ "OpenCore Guide"): (**they really helped make this possible**)
+- [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher "OpenCore Legacy Patcher"): (**Helping with Graphics Acceleration**)
+- [Acidanthera](https://github.com/acidanthera/ "Acidanthera"): (**For most of the kexts included in this EFI**)
